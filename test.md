@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# 光能发电
 
-You can use the [editor on GitHub](https://github.com/Accelerator0417/guangnengfadian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+**声明：**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 本网站仅用于分享lofter无法通过的文章，不用于交流。请遵守阅读公约，请勿以任何方式传播本网站。
+### **未成年**请勿访问，若因**未成年**不能遵守规则导致的一系列后果将由**未成年**自行承担责任。
+### 内容仅供娱乐，请勿当真。如果喜欢可以在lofter评论留言，谢谢大家。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**找到我：**
 
-1. Numbered
-2. List
+- Lofter：光能发电
+- 微博：唯奶茶与论文不可辜负
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## **目录**
 
-### Jekyll Themes
+#### 【魈荧】
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Accelerator0417/guangnengfadian.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**短篇**
 
-### Support or Contact
+- [各怀鬼胎](url) 
+- [夜袭](url) 
+- [实战教学](url)
+- [驱魔之术](url)
+- [契约](url)
+- 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**长篇**
+
+- [傩佑之处（正文+番外）](https://github.com/Accelerator0417/guangnengfadian.github.io/blob/main/document/【魈荧】傩佑之处.md)
+- 
