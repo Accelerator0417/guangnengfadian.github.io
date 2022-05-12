@@ -1,6 +1,4 @@
-# 光能发电
+# Read only
 
-# Read only！！！
-
-# Not for communication！！！
+# Not for communication
 
